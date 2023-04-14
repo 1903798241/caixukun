@@ -18,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="c67432f4-2485-4c9e-85e9-07f45317cb8d" />
   </component>
@@ -39,15 +42,18 @@
     </option>
   </component>
   <component name="ProjectId" id="2O3COXjZf0ytRWfAJ4DAgrAj8YW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring6-003-dependency/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -135,11 +141,30 @@
       <workItem from="1681098810112" duration="7558000" />
       <workItem from="1681195389800" duration="4749000" />
       <workItem from="1681366126902" duration="2627000" />
-      <workItem from="1681438291450" duration="1459000" />
+      <workItem from="1681438291450" duration="1787000" />
     </task>
+    <task id="LOCAL-00001" summary="Spring">
+      <created>1681441441830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681441441830</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Spring">
+      <created>1681441530994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681441530994</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Spring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring" />
   </component>
 </project>
